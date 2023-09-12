@@ -16,7 +16,7 @@
 
 - - 👀 <b>I’m interested in makes the changes.</b>
 - 💻 Learnt <b>Full Stack Web Development from Masai School</b>
-- 🤝 I’m looking to collaborate with some genious people as you.
+- 🤝 I’m looking to collaborate with some genius people like you.
 - 💌 Reach at me prashantkad240999@gmail.com
 - 🔗 Connect me Linkedin <a target=_blank href="https://www.linkedin.com/in/prashant-kad-77a21a245/" >Linkedin</a>
 - 🔗 Know more about me  <a target=_blank href="https://drive.google.com/drive/folders/1t58j0rDGz38tB-TYooWYN79laSym_kyx?usp=share_link" >Resume</a>
