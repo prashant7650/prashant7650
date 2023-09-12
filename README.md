@@ -20,7 +20,7 @@
 - 💌 Reach at me prashantkad240999@gmail.com
 - 🔗 Connect me Linkedin <a target=_blank href="https://www.linkedin.com/in/prashant-kad-77a21a245/" >Linkedin</a>
 - 🔗 Know more about me  <a target=_blank href="https://drive.google.com/drive/folders/1t58j0rDGz38tB-TYooWYN79laSym_kyx?usp=share_link" >Resume</a>
-- 🔗 My Portfolio <a target ="_blank" href = "">Click Here</a>
+- 🔗 My Portfolio <a target ="_blank" href = "https://65002bb6ecfe8343aa586bf3--gleeful-mermaid-d0c724.netlify.app/">Portfolio</a>
 
 
 <h3 align="left">Connect with me:</h3>
